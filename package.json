@@ -1,0 +1,11 @@
+{
+  "name": "sam-cave",
+  "version": "0.0.1",
+  "description": "The place Sam puts all his stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel L Meyers",
+  "license": "MIT"
+}
